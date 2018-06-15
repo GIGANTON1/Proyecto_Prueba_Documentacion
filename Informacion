@@ -1,0 +1,32 @@
+﻿**NORMALES**
+-GAMA DE COLORES
+-DISEÑO
+**OBJETIVOS ESPECFICOS**
+-AGREGAR MAS OBJETIVOS
+
+**AGREGAR MAS REQUERIMIENTOS**
+-Escala de numeros de dificultad(no es obligatorio)
+-Decir si es responsy o no
+-Con que se usara la pagina. Mouse y Teclado.
+-El llenado de formularios.
+
+-Analisis de las necesidades.
+-Descripcion de Usuario.
+-Ambiente de desarrollo(Hosting caracteristicas que necesitara).
+-Estudios de la viabilidad del sistema.
+-Desarrollo de Aplicación.
+-Tecnologias necesitadas para la documentación.
+-Gestor de cambio de proyecto como repositorio (Desarrollo)
+-Gestor de cambio de DOCUMENTO como repositorio (Texto)
+-Viabilidades
+
+
+-Costos de implementación
+
+
+**ROOT**
+Configuracion del sistema?
+Puede hacerlo, por si hay nuevos cambios como nueva facultad, etc.q
+
+**DIAGRAMA**
+Funcion del ROOT
