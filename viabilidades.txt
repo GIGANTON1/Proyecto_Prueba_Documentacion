@@ -1,0 +1,38 @@
+VIABILIDAD TÉCNICA:
+
+*Determinar si actualmente se cuenta con el equipo necesario para la implementacion del sistema.
+	/Enlistar los recursos técnicos necesarios e indicar cuáles
+		necesistan adquirirse y cuáles no.
+*Identificar si hay alguien en la organizacion(UNICAH) que tenga las habilidades técnicas
+para lograr los objetivos. De no ser así , asegurarse si están dispuestos a contratar a terceros(programadores, probadores,expertos y 
+demás personal capacitado para el desarrollo del seistema).
+
+*Verificar la existencia de otros sistemas que se acoplen a lo que se quiere realizar, o si se deben construir desde cero.   
+
+NOTA:Hacer énfasis en el hecho que en caso de tener que pagar a terceros, nosotros(estudiantes) brindaremos ese aporte, por lo tanto será viable. 
+
+
+
+VIABILIDAD ECONÓMICA:
+
+*Exponer detalladamente lo que se estarían ahorrando tomando en cuenta que el desarrollo será gratis por ser proyecto de clase.
+	
+	+Pago al equipo de trabajo(Costos de Análisis y  Desarrollo):
+	
+		/Costo por realizar un estudio de sistemas completo(Se incluye los costos por cada reunion(
+			costos de alimentacion, transporte y depreciacion del hardware utilizado para el desarrollo del software)).
+		/Costos por la codificacion(estimacion costo por linea de codigo).
+		/Asignar un aproximado de salario(Lp.8000.00)
+
+	+Costos de implementacion
+		/Comparaciones de Hosting,digitalizadores.
+
+
+
+
+VIABILIDAD OPERACIONAL:
+
+*El personal(en este caso el Ing.Marcel) está dispuesto a utilizar el sistema RegiVit. 
+*Dada la necesidad de este sistema, es operacionalmente viable, ademas;
+	+Se brindará una capacitacion general al que será encargado de manejar el siestema de manera local(Ing. Marcel)
+	+Se proveerá un video manual para el usuario(como el manual de usuario).
